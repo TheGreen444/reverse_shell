@@ -1,3 +1,4 @@
+##
 ## How it works (for programmers)
 - creates a TCP socket (`AF_INET`, `SOCK_STREAM`)  
 - attempts `connect()` to `127.0.0.1:4444` in a loop  
